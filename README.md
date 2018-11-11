@@ -1,2 +1,1 @@
-# Quickly-Web
-Quickly-Web
+Bu benim ilk depom
